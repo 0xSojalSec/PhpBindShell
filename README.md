@@ -11,4 +11,5 @@ curl -so PhpBindShell.php https://raw.githubusercontent.com/NullBrunk/PhpBindShe
 
 # Result
 
-![Capture d'écran Deepin_zone de sélection _20220603020147](https://user-images.githubusercontent.com/106782577/171759677-d1ebea99-2379-47a5-a69a-47b5878fa079.png)
+![Capture d'écran Deepin_zone de sélection _20220603021104](https://user-images.githubusercontent.com/106782577/171760369-1ed27bce-928d-4354-912d-c2c8f4c1bebc.png)
+
