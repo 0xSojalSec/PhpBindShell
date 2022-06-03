@@ -8,6 +8,9 @@ wget https://raw.githubusercontent.com/NullBrunk/PhpBindShell/main/PhpBindShell.
 ```bash
 curl -so PhpBindShell.php https://raw.githubusercontent.com/NullBrunk/PhpBindShell/main/PhpBindShell.php 
 ```
+```bash
+git clone https://github.com/NullBrunk/PhpBindShell.git && mv PhpBindShell/PhpBindShell.php ./ && rm -rf PhpBindShell
+```
 
 # Result
 
