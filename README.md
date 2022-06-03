@@ -14,5 +14,4 @@ git clone https://github.com/NullBrunk/PhpBindShell.git && mv PhpBindShell/PhpBi
 
 # Result
 
-![Capture d'écran Deepin_zone de sélection _20220603021104](https://user-images.githubusercontent.com/106782577/171760369-1ed27bce-928d-4354-912d-c2c8f4c1bebc.png)
-
+![Capture d'écran Deepin_zone de sélection _20220603153753](https://user-images.githubusercontent.com/106782577/171865475-6edcc3ea-8d41-43df-a268-f52a5025363a.png)
